@@ -8,9 +8,18 @@ hello! 👋My name is Vardven.I am from china
 - 📫 联系方式：[https://ven.cc.cd](https://ven.cc.cd)
 - ⚡ 日常爱好调试页面样式、开发实用小工具
 
-## 📝 常用 Git 基础命令
-- `git init`：初始化本地仓库，开启版本控制
-- `git add`：将改动文件加入暂存区，等待提交
-- `git commit`：把暂存内容正式保存到版本历史，附带提交说明
-- `git status`：查看工作区与暂存区文件变动状态
-- `git checkout`：切换仓库历史不同版本、分支或文件状态
+## 📚 Git 常用命令速查
+
+### 基础操作
+- `git init`：初始化一个新仓库，启用版本控制
+- `git add`：将文件变更添加到暂存区
+- `git commit -m "Initial commit"`：提交暂存区内容，并附带说明信息（首次提交）
+- `git status`：查看工作目录与暂存区的当前状态
+
+### 查看历史
+- `git log`：展示项目完整的详细提交历史
+- `git log --oneline`：简洁模式，每行显示一个提交记录
+- `git log --graph`：图形化展示分支历史，清晰查看分叉路径
+
+### 版本切换
+- `git checkout`：切换到历史记录中的其他版本（修改工作目录文件）
