@@ -1,5 +1,5 @@
 ## Hi there 👋,Welcome!
-hello! 👋My name is Vardven.I am from china.🇨🇳
+hello! 👋My name is Vardven.I am from china 🇨🇳
 
 - 🔭 目前专注个人博客搭建与前端开发
 - 🌱 正在学习 Astro、Svelte 与 Python
