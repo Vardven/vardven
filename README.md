@@ -5,7 +5,7 @@ hello! 👋My name is Vardven.I am from china
 - 🌱 正在学习 Astro、Svelte 与 Python
 - 👯 希望参与开源小项目协作
 - 💬 欢迎交流建站、部署与代码相关问题
-- 📫 联系方式：[https://ven.cc.cd](https://ven.cc.cd)
+- 📫 联系方式：[https://blog.708808.xyz](https://blog.708808.xyz)
 - ⚡ 日常爱好调试页面样式、开发实用小工具
 
 ## 📚 Git 常用命令速查
